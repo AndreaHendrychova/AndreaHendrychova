@@ -5,7 +5,7 @@ Už jsi slyšel(a) o naší firmě SDE Software Solutions? **Jsme vývojáři z 
 - 💖 Nejvíc nás baví .Net a aktuálně React + Angular
 - 👯 Vyvíjíme však i v Javě, JS, GoLangu,PHP,Pythonu
 - 🤔 Neeee, fakt nás nebaví staré technologie
-- 💬 Angličtinu používáme na denní bázi 
+- 💬 Angličtinu používáme na denní bázi, proto máme i anglické lektory 
 - 🎃 Nejsme otroci, proto máme homeoffice kdy chceme + zcela volnou pracovní dobu
 - 😄 Projekty si řídíme v rámci týmu, žádné kontroly šéfa
 - 🐱‍👤 PŘESČASY? To jako vážně? :-D :-D 

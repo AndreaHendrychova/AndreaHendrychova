@@ -9,7 +9,7 @@
 - 💬 Angličtinu používáme na denní bázi 
 - 🎃 Nejsme otroci, proto máme homeoffice kdy chceme + zcela volnou pracovní dobu
 - 😄 Projekty si řídíme v rámci týmu, žádné kontroly šéfa
-- 🐱‍👤 PŘESČASY? To je nějaké sprosté slovo
+- 🐱‍👤 PŘESČASY? To jako vážně? :-D :-D 
 - 🐓 Pracujeme vždy pouze na jednom projektu. Když už, tak pořádně
 - ⚡ V Ostravě je náš 40
 - 🎈 Máme 3 pobočky v Brně, Ostravě a nově v Olomouci (existujeme už 25 let)

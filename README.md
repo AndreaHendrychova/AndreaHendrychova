@@ -1,5 +1,5 @@
 
-<p>Už jsi slyšel(a) o naší firmě SDE Software Solutions? **tučně**Jsme vývojáři z OSTRAVY/USA**tučně**<p>
+<p>Už jsi slyšel(a) o naší firmě SDE Software Solutions?**Jsme vývojáři z OSTRAVY/USA**<p>
   
 - 👩‍💻 Děláme webové a mobilní aplikace, nejlépe fullstack
 - 💖 Nejvíc nás baví .Net a aktuálně React + Angular

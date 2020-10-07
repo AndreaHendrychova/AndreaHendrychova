@@ -15,6 +15,6 @@ Už jsi slyšel(a) o naší firmě SDE Software Solutions? **Jsme vývojáři z 
 - 🦸‍Naši zákazníci? Od velkých společností po startupy
 - 🤘 Koho hledáme? Někoho,kdo se rád učí nové technologie,umí anglicky a je v pohodě
 
-A teď něco krátkého o mě: Nejsem náborář,ale HR LADY :-) Mým hlavním cílem je, aby v SDE byli lidi spokojení a to i s výběrem kolegy. Neoslovuju bezhlavě. Pokud se Ti ozvu, tvůj profil mě opravdu zaujal. V SDE mám na starosti i marketing a spoustu dalších věcí. Můj nejoblíbenější SDE benefit je volná pracovní doba a sportovní akce :-) 
+**A teď něco krátkého o mě:** Nejsem náborář,ale HR LADY :-) Mým hlavním cílem je, aby v SDE byli lidi spokojení a to i s výběrem kolegy. Neoslovuju bezhlavě. Pokud se Ti ozvu, tvůj profil mě opravdu zaujal. V SDE mám na starosti i marketing a spoustu dalších věcí. Můj nejoblíbenější SDE benefit je volná pracovní doba a sportovní akce :-) 
 <h1> AKTUÁLNĚ NEJVÍC HLEDÁM REACT VÝVOJÁŘE PRO NOVÝ PROJEKT V OSTRAVĚ<h1>
 <h2> A pokud tě baví .NET/C#, ráda se s tebou kdykoli uvidím :) <h2> Více na https://sde.cz/#hledame

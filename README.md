@@ -10,7 +10,7 @@ Už jsi slyšel(a) o naší firmě SDE Software Solutions? **Jsme vývojáři z 
 - 😄 Projekty si řídíme v rámci týmu, žádné kontroly šéfa
 - 🐱‍👤 PŘESČASY? To jako vážně? :-D :-D 
 - 🐓 Pracujeme vždy pouze na jednom projektu. Když už, tak pořádně. A pokud ti typ projektu úplně nesedne, najdeme ti jiný.
-- ⚡ V Ostravě je náš 40
+- ⚡ V Ostravě je nás 40
 - 🎈 Máme 3 pobočky v Brně, Ostravě a nově v Olomouci (existujeme už 25 let)
 - 🦸‍Naši zákazníci? Od velkých společností po startupy
 - 🤘 Koho hledáme? Někoho,kdo se rád učí nové technologie,umí anglicky a je v pohodě

@@ -1,3 +1,6 @@
+**Rosteme! Spojili jsme síly s 3Pillar Global a chceme tě na palubě! 
+Volné pracovní pozice si můžeš prohlédnout tady. Brzy nás najdeš už jen na globálním webu 3Pillar. Těšíme se na tebe!**
+
 
 Už jsi slyšel(a) o naší firmě 3PillarGlobalCzechia? **Jsme vývojáři z OSTRAVY/USA**
   

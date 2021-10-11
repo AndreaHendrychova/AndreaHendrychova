@@ -2,7 +2,7 @@
 Volné pracovní pozice si můžeš prohlédnout tady. Brzy nás najdeš už jen na globálním webu 3Pillar. Těšíme se na tebe!**
 
 
-Už jsi slyšel(a) o naší firmě 3PillarGlobalCzechia? **Jsme vývojáři z OSTRAVY/USA**
+Už jsi slyšel(a) o naší firmě 3PillarGlobalCzechia? **Jsme vývojáři z OSTRAVY/USA/a dalších koutů světa**
   
 - 👩‍💻 Děláme webové a mobilní aplikace, nejlépe fullstack
 - 💖 Nejvíc nás baví .Net a aktuálně React + Angular

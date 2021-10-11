@@ -4,8 +4,8 @@ Volné pracovní pozice si můžeš prohlédnout tady. https://sde.cz/#hledame B
 
 Už jsi slyšel(a) o naší firmě 3PillarGlobalCzechia? **Jsme vývojáři z OSTRAVY/USA/a dalších koutů světa**
   
--👩‍💻 Vyvíjíme webové a mobilní aplikace, nejlépe fullstack
--💖 Nejvíc nás baví .Net, Java a aktuálně React či Angular
+- 👩‍💻 Vyvíjíme webové a mobilní aplikace, nejlépe fullstack
+- 💖 Nejvíc nás baví .Net, Java a aktuálně React či Angular
 -👯 Programujeme však i v JS, Golangu, PHP, Pythonu
 -🤔 ZASTARALÉ technologie NEMÁME RÁDI.
 -🤖 Našimi zákazníky jsou například i MASTERCARD, CISCO či NATIONAL GEOGRAPHIC
